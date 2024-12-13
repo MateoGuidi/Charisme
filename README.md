@@ -75,14 +75,6 @@
 
 - `/charisme` **- Permet de connaitre ton taux ton charisme**
 
-**🎵 Musique**
-
-- `/cplay` **- Permet de jouer de la musique**
-
-- `/cfilter` **- Permet d'appliquer un filtre au son joué'**
-
-- `/clyrics` **- Permet d'afficher les paroles d'une chanson**
-
 **⚙️ Utilitaires**
 
 - `/chelp` **- Permet de connaître toutes les commandes de ce bot**
