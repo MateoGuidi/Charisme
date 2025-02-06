@@ -1,6 +1,6 @@
 <h1 align="center">Charisme</h1>
 
-<img src="https://mateoguidi.github.io/portfolio/img/projects/visuCharisme.png" 
+<img src="https://mateoguidi.github.io/img/projects/visuCharisme.png" 
      alt="Charisme - Discord Bot" 
      style="display: block; margin: 0 auto;">
 
